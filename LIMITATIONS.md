@@ -59,12 +59,15 @@ the conditions of collection are not fully recoverable from the record.
    The record is therefore not a complete transcript of what was returned, and
    the removal is deliberate.
 
-9. **Location detail can narrow a coded identifier.** Coding removed names, not
-   places. Notes and excerpts still carry cities, countries and venues drawn
-   from the answers. A reader who knows the market may be able to infer some
-   identities from that detail. Coding reduces the risk of circulating
-   unverified claims against named companies. It is not anonymization and should
-   not be relied on as such.
+9. **Location detail can still narrow a coded identifier.** Cities attached to a
+   coded clinic as its location are replaced with `[city withheld]`, and founder
+   names paired with a roster ID are replaced with that ID. Countries are kept
+   throughout, and so are cities that name a market, a query or a third party's
+   own location. Districts, venues, hotel partners and other place detail below
+   city level were not touched. A reader who knows the market may still be able
+   to infer some identities from what remains. This reduces the risk of
+   circulating unverified claims against named companies. It is not
+   anonymization and should not be relied on as such.
 
 10. **Analyst notes are interpretation, not observation.** The `Notes` column
     mixes what was seen with what the analyst concluded, including scores,

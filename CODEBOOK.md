@@ -114,8 +114,24 @@ captured, so the excerpt is empty.
 
 1. Organization names replaced with `[HM-nnn]`, matching on the roster name and
    on trading names, abbreviations, own domains and other variants.
-2. One named patient removed entirely rather than coded, replaced with
+2. City names replaced with `[city withheld]` where the city is attached to a
+   coded clinic as that clinic's location, because a code plus its recorded city
+   identifies the clinic. Countries are kept everywhere, including Singapore,
+   which is HM-133's country as well as its city. A city naming a market, a
+   query, or a third party's own location is kept. See LIMITATIONS.md item 9.
+3. Founder, co-founder and chief-executive names replaced with the roster ID
+   they are paired with, where the source binds the person to a coded clinic.
+   A person named in a professional capacity with no such pairing keeps their
+   name. Four rows are an exception, described below.
+4. One named patient removed entirely rather than coded, replaced with
    `[patient case detail removed]`. Surrounding statistics were kept.
-3. Analyst annotations moved out of the excerpt column into Notes on three rows.
+5. Analyst annotations moved out of the excerpt column into Notes on three rows.
+
+Rows R017, R018, R019 and R020 are the practitioner-name-resolution runs. Their
+finding is how each platform resolved a person's name to a clinic, including a
+flagged hallucination that one coded clinic is a named doctor's practice when
+another is. Substituting an ID for the name there would assert the disputed
+binding and destroy the observation, so discursive mentions of that person keep
+the name in those four rows. Direct `Name [HM-nnn]` pairings are still coded.
 
 No rows were dropped, merged or reordered. No numeric value was altered.

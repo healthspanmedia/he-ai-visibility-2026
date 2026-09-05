@@ -1,6 +1,6 @@
 Order,Query ID,Category,Query Text (copy-paste this),Edge cases this query tests,Why included in calibration
 1,A03,A — Brand-direct,[HM-010] membership cost,(none expected; sanity-check baseline),"Mass-market disruptor brand-direct; should produce a definitive, well-cited answer. Calibrates the score-5 anchor."
-2,A05,A — Brand-direct,Peter Attia clinic,Hallucination risk (c); practitioner-name resolution,"Tests whether AI resolves Attia to [HM-021], [HM-003], or conflates them. Likely produces hallucinated services. Calibrates the hallucination -1 modifier."
+2,A05,A — Brand-direct,Peter Attia clinic,Hallucination risk (c); practitioner-name resolution,"Tests whether AI resolves [HM-021] to [HM-021], [HM-003], or conflates them. Likely produces hallucinated services. Calibrates the hallucination -1 modifier."
 3,B01,B — Category,Best longevity clinic in Dubai,List mention (a); location mismatch (d); tied citations (e),Geo-anchored category contest with multiple ME-region candidates. Likely produces a list of 5-10 names with similar framing.
 4,B07,B — Category,Best functional medicine clinics for women,List mention (a); demographic-anchored framing,Demographic-led category. Calibrates how to score clinics that appear in lists but are not the report's primary subjects.
 5,C01,C — Service/Protocol,Best clinic for biological age testing,Wikipedia citation (b); list mention (a),Service-led; should pull lab brands and clinics. Calibrates the score-2 vs score-3 boundary (description vs cited link).

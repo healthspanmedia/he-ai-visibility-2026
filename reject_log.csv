@@ -26,7 +26,7 @@ no VISIBILITY: segment and no prose score,R162,E01,Claude,"HM-010,HM-122,HM-067,
 no VISIBILITY: segment and no prose score,R189,E08,ChatGPT,,"*** MAJOR CROSS-PLATFORM DIVERGENCE ***: ChatGPT E08 'What is biological age testing' routes through ACADEMIC SOURCES (nature.com, aging.ai, nih.gov) and explicitly names Horvath, "
 no VISIBILITY: segment and no prose score,R194,E09,Claude,,"*** SIX-TIER EVIDENCE FRAMEWORK — REPORT-READY SECTION 4 + SECTION 6 MATERIAL ***: Tier 1 Strong (multiple RCTs + mortality data + clinical guidelines) — Exercise prescription, Apo"
 zero-observation run,R020,A05,Google AI Overviews,,ZERO of 25 scored subjects. AIO did not generate.
-zero-observation run,R045,B02,ChatGPT,,"NONE of our 25 scored subjects appear in the London response. Notable: [HM-018], [HM-020], [HM-004] London satellite al"
+zero-observation run,R045,B02,ChatGPT,,"NONE of our 25 scored subjects appear in the London response. Notable: [HM-018], [HM-020], [HM-004] [city withheld] satellite al"
 zero-observation run,R047,B02,Perplexity,,"ZERO of our 25 surfaced. Repeating the C-category pattern of UK invisibility for our 25. Comparison ChatGPT B02 vs Perplexity B02: ChatGPT named HUM2N, The Well"
 zero-observation run,R085,C02,ChatGPT,,ZERO of our 25 anchored. [HM-022] NOT mentioned (was anchored in AIO C02 + appeared in original Apr 30 ChatGPT capture).
 zero-observation run,R087,C02,Perplexity,,ZERO of our 25 scored subjects surface. Confirms ChatGPT C02
@@ -36,7 +36,7 @@ zero-observation run,R107,C07,Perplexity,,ZERO of our 25 scored subjects surface
 zero-observation run,R110,C08,Claude,,ZERO of our 25 anchored — consistent with cross-platform pattern (Perplexity C08 + AIO C08 + AIO C08 retest + ChatGPT C08 also returned zero of our 25 as primar
 zero-observation run,R111,C08,Perplexity,,ZERO of our 25 scored subjects surface. Confirms ChatGPT C08 pattern. Pattern 4 LOCKED for peptide therapy across both platforms: category owned by clinician-na
 zero-observation run,R112,C08,Google AI Overviews,,"ZERO of our 25 surface. Confirms cross-platform peptide therapy absence pattern (ChatGPT C08, Perplexity C08, Google AIO C08 all 0/25). MASSIVE DIRECTORY SURFAC"
-zero-observation run,R116,C09,Google AI Overviews,,ZERO of our 25 direct hits on VO2 max query. Confirms cross-platform Attia/[HM-024]/[HM-127] absence pattern (Perplexity C09 also showed only [HM-127]).
+zero-observation run,R116,C09,Google AI Overviews,,ZERO of our 25 direct hits on VO2 max query. Confirms cross-platform [HM-127]/[HM-024]/[HM-127] absence pattern (Perplexity C09 also showed only [HM-127]).
 zero-observation run,R119,C10,Perplexity,,"ZERO of our 25 direct hits. Extension Health (in RQ) featured strongly. [HM-142] ANCHORED as 'pioneering HBOT, FDA-cleared protocol, telomeres +20%' - domin"
 zero-observation run,R125,D02,ChatGPT,,ZERO of our 25 anchored. Tally + Elysium NOT in 25 (in Research Queue Task 33). [HM-104] NOT mentioned despite being a Tally peer surfaced on AIO D
 zero-observation run,R128,D02,Google AI Overviews,,ZERO of our 25 anchored. [HM-009] + Elysium both NOT in 25 (Research Queue).
@@ -58,19 +58,19 @@ zero-observation run,R196,E09,Google AI Overviews,,ZERO of our 25 anchored. HIGH
 zero-observation run,R197,E10,ChatGPT,,"ZERO of our 25 anchored. ChatGPT E10 routes 'workup includes' query through generic medical framing + peer-reviewed sources (nih.gov, nature.com, sciencealert.c"
 zero-observation run,R198,E10,Claude,,ZERO direct clinic anchors (consistent with category-definition queries). Claude E10 provides SIX-PHASE WORKUP FRAMEWORK ready for Section 5 +
 clinic recorded absent,R010,A03,Claude,HM-005,Mark Hyman implicit (Function co-founder).
-clinic recorded absent,R038,A10,Claude,HM-010,[HM-010] implicit reference (Hyman co-founded; UWC explicitly NOT follow-up to Function — important disambiguation).
-clinic recorded absent,R051,B03,Perplexity,HM-125,[HM-125] (NYC-based!) ABSENT despite being a key NYC scored subject.
-clinic recorded absent,R069,B08,ChatGPT,HM-021,[HM-021] (Attia) implied via 'concierge' framing.
+clinic recorded absent,R038,A10,Claude,HM-010,[HM-010] implicit reference ([HM-010] co-founded; UWC explicitly NOT follow-up to Function — important disambiguation).
+clinic recorded absent,R051,B03,Perplexity,HM-125,[HM-125] ([city withheld]-based!) ABSENT despite being a key NYC scored subject.
+clinic recorded absent,R069,B08,ChatGPT,HM-021,[HM-021] ([HM-021]) implied via 'concierge' framing.
 clinic recorded absent,R081,C01,ChatGPT,HM-122,[HM-122] IMPLICIT (cited as '[HM-122] ecosystem' inside AIWO Health's biological-age stack). ZERO of our 25 direct hits.
 clinic recorded absent,R097,C05,ChatGPT,HM-023,[HM-023] NOT MENTIONED. [HM-023] is the legacy US hormone-optimization brand explicitly chosen for our 25 to represent 'old guard with m
 clinic recorded absent,R104,C06,Google AI Overviews,HM-002,[HM-002] — the obvious answer — NOT mentioned even with 'for longevity' anchor. [HM-013] Dubai (NOT in 25) is the anchored bran
-clinic recorded absent,R116,C09,Google AI Overviews,HM-021,[HM-021] (Attia) NOT mentioned despite Attia being the canonical 'VO2 max for longevity' evangelist.
+clinic recorded absent,R116,C09,Google AI Overviews,HM-021,[HM-021] ([HM-021]) NOT mentioned despite [HM-021] being the canonical 'VO2 max for longevity' evangelist.
 clinic recorded absent,R116,C09,Google AI Overviews,HM-127,[HM-127] NOT mentioned. Even [HM-001] and [HM-023] do not surface.
 clinic recorded absent,R122,D01,Claude,HM-005,Mark Hyman implicit (Function co-founder framing). FOUR-PLATFORM
 clinic recorded absent,R126,D02,Claude,HM-104,[HM-104] implicit. [HM-009] + Elysium NOT in our 25. CONFIRMED
-clinic recorded absent,R150,D08,Claude,HM-122,[HM-122] implicit via Dawson ecosystem.
+clinic recorded absent,R150,D08,Claude,HM-122,[HM-122] implicit via [HM-122] ecosystem.
 clinic recorded absent,R157,D10,ChatGPT,HM-133,[HM-133] context-mentioned but ChatGPT REFRAMED query as Hong Kong / Tokyo / Seoul — NOT Singapore. ChatGPT treats '[HM-133]-style
 clinic recorded absent,R167,E02,Perplexity,HM-003,[HM-003] mentioned but [HM-003] is now Section 6 reference (not scored).
 clinic recorded absent,R176,E04,Google AI Overviews,HM-068,"[HM-024] surface, despite query being about functional medicine - SURPRISING ABSENCE."
-clinic recorded absent,R191,E08,Perplexity,HM-104,[HM-104] cited as source (generationlab.com/blog/longevity-testing).
+clinic recorded absent,R191,E08,Perplexity,HM-104,[HM-104] cited as source ([HM-104].com/blog/longevity-testing).
 clinic recorded absent,R191,E08,Perplexity,HM-001,[HM-001] cited as source ([HM-001]/blog/how-to-test-your-biological-age). Both as authority content sources rather than feature

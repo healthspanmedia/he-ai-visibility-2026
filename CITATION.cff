@@ -4,7 +4,9 @@ title: "AI Visibility 2026: an observational record of consumer AI assistant out
 abstract: >-
   A dated observational record of what four consumer AI assistants (ChatGPT,
   Claude, Perplexity and Google AI Overviews) returned on a fixed 50-query set
-  about longevity and preventive health clinics, collected April to May 2026.
+  about longevity and preventive health clinics, captured on three dates,
+  2026-04-30, 2026-05-11 and 2026-05-12, with identifier corrections applied
+  2026-05-15.
   200 observations, plus a reject log of 75 excluded runs, the query set and the
   calibration subset. Organization identities are coded as roster identifiers;
   the mapping is available to researchers on request. This is not a benchmark,

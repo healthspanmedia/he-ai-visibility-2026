@@ -46,9 +46,5 @@ recorded here misdescribes them. A correction cannot change what an assistant
 returned, since that is the observation. It can be recorded alongside the
 observation, and it can correct the coding, the dating or the preparation.
 
-Route corrections to the publisher, Sandria OÜ, registry code 17585074.
-
-TO CONFIRM BEFORE RELEASE: the correspondence address for corrections is not
-set in this draft. It was not supplied to the session that prepared these files
-and has deliberately not been invented. Fill it in before this notice is
-published.
+Route corrections to corrections@healthspaneconomy.com, or to the publisher,
+Sandria OÜ, registry code 17585074.

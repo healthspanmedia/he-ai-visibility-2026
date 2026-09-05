@@ -6,8 +6,9 @@ DRAFT FOR HUMAN REVIEW. Nothing in this folder has been reviewed for release.
 
 A dated observational record of what four consumer AI assistants returned when
 asked a fixed set of 50 queries about longevity and preventive health clinics.
-Collection ran April to May 2026, with capture dates from 2026-04-30 to
-2026-05-12 and a round of identifier corrections applied 2026-05-15.
+All 200 captures fall on three dates: 2026-04-30, 2026-05-11 and 2026-05-12.
+A round of identifier corrections was applied 2026-05-15. There are no other
+collection dates.
 
 The four assistants are ChatGPT, Claude, Perplexity and Google AI Overviews.
 Each of the 50 queries was put to each assistant once, giving 200 observations.
