@@ -1,0 +1,24 @@
+Order,Query ID,Category,Query Text (copy-paste this),Edge cases this query tests,Why included in calibration
+1,A03,A — Brand-direct,[HM-010] membership cost,(none expected; sanity-check baseline),"Mass-market disruptor brand-direct; should produce a definitive, well-cited answer. Calibrates the score-5 anchor."
+2,A05,A — Brand-direct,Peter Attia clinic,Hallucination risk (c); practitioner-name resolution,"Tests whether AI resolves Attia to [HM-021], [HM-003], or conflates them. Likely produces hallucinated services. Calibrates the hallucination -1 modifier."
+3,B01,B — Category,Best longevity clinic in Dubai,List mention (a); location mismatch (d); tied citations (e),Geo-anchored category contest with multiple ME-region candidates. Likely produces a list of 5-10 names with similar framing.
+4,B07,B — Category,Best functional medicine clinics for women,List mention (a); demographic-anchored framing,Demographic-led category. Calibrates how to score clinics that appear in lists but are not the report's primary subjects.
+5,C01,C — Service/Protocol,Best clinic for biological age testing,Wikipedia citation (b); list mention (a),Service-led; should pull lab brands and clinics. Calibrates the score-2 vs score-3 boundary (description vs cited link).
+6,C04,C — Service/Protocol,Where to get full-body MRI screening,"Section 6 driver; non-clinic citations ([HM-036], [HM-037])",Tests how non-clinic dominance is logged. Most clinics in our 25 should score 0; [HM-036]/[HM-037] likely featured. Calibrates the Sources Mentioned tab workflow.
+7,D03,D — Comparison,[HM-001] vs [HM-002],Tied citations (e); two scored subjects in one query,Both clinics in our 25. Calibrates how to score side-by-side framing where each clinic gets independent integrity but shared visibility.
+8,D04,D — Comparison,[HM-015] vs [HM-004],Tied citations (e); heritage Euro head-to-head,Both heritage Tier 2. Likely tied framing. Calibrates integrity scoring against each clinic's own positioning page.
+9,E02,E — Patient research,Are longevity clinics worth the money,Skeptical framing; Reddit/community citations expected,Skeptical patient research. Likely Reddit-heavy with few clinic names. Calibrates how to handle queries where most of our 25 score 0.
+10,E08,E — Patient research,What is biological age testing,Wikipedia citation (b); definitional,Definitional. Likely Wikipedia and lab-brand citations. Calibrates the score-1 (named in passing) boundary and the Sources Mentioned workflow.
+,,,,,
+INSTRUCTIONS,,,,,
+"1. Open Perplexity in an incognito or private window. If logged in, log out first to avoid personalization.",,,,,
+"2. Run each of the 10 queries above in order, one per query. Copy the query text exactly.",,,,,
+"3. For each, in the Query Run Log tab, find the row matching the Query ID and Platform = Perplexity, and fill:",,,,,
+"       column F (Run Date), column G (Run Time), column I (Screenshot Path: save the screenshot locally and paste the path),",,,,,
+"       columns J-N (Top Source 1-5: paste the URL of each cited source in order),",,,,,
+"       column O (Clinics Mentioned: comma-separated list of HM-XXX or C-XX IDs from the Clinic Master tab),",,,,,
+"       column P (Raw Response Excerpt: paste the relevant portion of the response, especially around clinic mentions, ~200-400 words),",,,,,
+"       column Q (Notes: any anomaly, hallucination, or odd framing worth flagging).",,,,,
+4. DO NOT score yet. Scoring happens in session 3 with both of us looking at the data.,,,,,
+5. Cowork runs the same 10 queries in a clean Claude session in parallel and logs to the same tab.,,,,,
+6. Estimated time: 30-45 minutes for your 10 queries.,,,,,

@@ -1,0 +1,51 @@
+Query ID,Category,Query Text,Intent,Geo-specific?,Skeptical framing?,Practitioner-name?,Expected Winners (hypothesis)
+A01,A — Brand-direct,[HM-001] reviews,Sanity check: does AI surface [HM-001] when asked,N,N,N,[HM-001]
+A02,A — Brand-direct,Is [HM-004] worth the cost,Premium Euro brand fidelity,N,Y,N,[HM-004]
+A03,A — Brand-direct,[HM-010] membership cost,Mass-market disruptor brand fidelity,N,N,N,[HM-010]
+A04,A — Brand-direct,[HM-015] longevity programs,Heritage Swiss brand fidelity,N,N,N,[HM-015]
+A05,A — Brand-direct,Peter Attia clinic,Practitioner-name resolution test,N,N,Y,[HM-021] (or [HM-003])
+A06,A — Brand-direct,[HM-132] longevity,Institutional ME brand fidelity,Y,N,N,[HM-132]
+A07,A — Brand-direct,[HM-133] Singapore reviews,"APAC brand fidelity, geo-anchored",Y,N,N,[HM-133]
+A08,A — Brand-direct,[HM-033] price,Premium Euro retreat brand fidelity,N,N,N,[HM-033]
+A09,A — Brand-direct,[HM-125] concierge longevity,Concierge brand fidelity,N,N,N,[HM-125]
+A10,A — Brand-direct,Mark Hyman patient experience,Practitioner-name resolution test,N,N,Y,[HM-005] / [HM-010]
+B01,B — Category,Best longevity clinic in Dubai,Geo Tier-3 contest,Y,N,N,[HM-012] / [HM-131] / [HM-132]
+B02,B — Category,Best longevity clinic in London,Geo UK contest,Y,N,N,[HM-004] London / [HM-015] / others
+B03,B — Category,Best longevity clinic in NYC,Geo US contest,Y,N,N,[HM-125] / [HM-001] / [HM-022]
+B04,B — Category,Best longevity clinic in Los Angeles,Geo US contest,Y,N,N,[HM-022] / [HM-125] / [HM-023]
+B05,B — Category,Best longevity clinic in Singapore,Geo APAC contest,Y,N,N,[HM-133]
+B06,B — Category,Top longevity doctors 2026,Practitioner-led category test,N,N,N,Attia / Hyman / Sinclair / others
+B07,B — Category,Best functional medicine clinics for women,Demographic-specific category,N,N,N,[HM-067] / WellTheory (citation-ref)
+B08,B — Category,Best longevity clinics for executives,Audience-specific premium category,N,N,N,[HM-001] / [HM-125] / [HM-024]
+B09,B — Category,Top preventive medicine clinics in the US,Domestic category contest,Y,N,N,[HM-006] / [HM-001] / Function
+B10,B — Category,Best anti-aging clinics in Europe,Continental category contest,Y,N,N,[HM-004] / [HM-015] / [HM-034]
+C01,C — Service/Protocol,Best clinic for biological age testing,Service-led discovery,N,N,N,[HM-009] / [HM-122] / [HM-104]
+C02,C — Service/Protocol,Where to get NAD+ IV therapy,Service-led discovery,N,N,N,[HM-022] / Restore / clinic options
+C03,C — Service/Protocol,Best clinic for executive longevity assessment,Premium audience service,N,N,N,[HM-001] / [HM-002] / [HM-003]/Early
+C04,C — Service/Protocol,Where to get full-body MRI screening,Section 6 driver: [HM-036]/[HM-037] dominance test,N,N,N,[HM-036] / [HM-037] / clinic options
+C05,C — Service/Protocol,Best clinics for hormone optimization,Hormone replacement service,N,N,N,[HM-023] / Hone / Forefront
+C06,C — Service/Protocol,Where to get whole genome sequencing,Service-led discovery,N,N,N,Nucleus / [HM-002] / clinic options
+C07,C — Service/Protocol,Best clinic for stem cell therapy and longevity,Regenerative service category,N,N,N,[HM-012] / [HM-033] / clinic options
+C08,C — Service/Protocol,Where to get peptide therapy,Protocol-led discovery,N,N,N,various
+C09,C — Service/Protocol,Best clinic for VO2 max testing and protocol,Performance/longevity service,N,N,N,[HM-024] / [HM-003] / [HM-021]
+C10,C — Service/Protocol,Best HBOT longevity clinic,Modality-led discovery,N,N,N,[HM-142] / [HM-022] / Longevity Wellness Hub
+D01,D — Comparison,[HM-010] vs InsideTracker,Disruptor head-to-head,N,N,N,Both
+D02,D — Comparison,[HM-009] vs Elysium biological age,Sinclair-adjacent comparison,N,N,N,Both
+D03,D — Comparison,[HM-001] vs [HM-002],Tier 1 head-to-head,N,N,N,[HM-001] (more recent content)
+D04,D — Comparison,[HM-015] vs [HM-004],Heritage Euro head-to-head,N,N,N,Both
+D05,D — Comparison,[HM-022] vs [HM-125],Concierge consumer head-to-head,N,N,N,Both
+D06,D — Comparison,[HM-033] vs [HM-128],Premium retreat head-to-head,N,N,N,Both
+D07,D — Comparison,[HM-132] vs [HM-131] longevity,Institutional ME head-to-head,Y,N,N,Both institutional brands
+D08,D — Comparison,[HM-024] vs [HM-067] concierge,Functional medicine head-to-head,N,N,N,Both
+D09,D — Comparison,[HM-009] vs [HM-122] biological age,Epigenetic test head-to-head,N,N,N,Both
+D10,D — Comparison,Best longevity clinics in Asia: [HM-133] vs Tokyo vs Seoul,APAC tier comparison,Y,N,N,[HM-133] / [HM-134] / [HM-135]
+E01,E — Patient research,How much does a longevity clinic cost,Cost discovery,N,N,N,Aggregator-led answers likely
+E02,E — Patient research,Are longevity clinics worth the money,Skeptical patient research,N,Y,N,Reddit-cited; clinic-name-light
+E03,E — Patient research,What tests does a longevity clinic do,Service-summary discovery,N,N,N,Aggregator + clinic answers
+E04,E — Patient research,Difference between functional medicine and longevity medicine,Definitional,N,N,N,Aggregator-led
+E05,E — Patient research,Are longevity clinics a scam,"Skeptical, Reddit-magnet",N,Y,N,Reddit-heavy; clinic-name-light
+E06,E — Patient research,Longevity clinic complaints,"Skeptical, complaint-magnet",N,Y,N,Reddit-heavy
+E07,E — Patient research,Best longevity clinic for the cost,Value-led,N,N,N,[HM-010] likely strong
+E08,E — Patient research,What is biological age testing,Definitional service explainer,N,N,N,Aggregator + lab brand
+E09,E — Patient research,Is longevity medicine evidence-based,Skeptical-curious,N,Y,N,Mixed; academic and Reddit
+E10,E — Patient research,What does a longevity workup actually include,Procedure-detail discovery,N,N,N,Aggregator + clinic answers

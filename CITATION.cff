@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this record, please cite it as below."
+title: "AI Visibility 2026: an observational record of consumer AI assistant outputs on longevity clinic queries"
+abstract: >-
+  A dated observational record of what four consumer AI assistants (ChatGPT,
+  Claude, Perplexity and Google AI Overviews) returned on a fixed 50-query set
+  about longevity and preventive health clinics, collected April to May 2026.
+  200 observations, plus a reject log of 75 excluded runs, the query set and the
+  calibration subset. Organization identities are coded as roster identifiers;
+  the mapping is available to researchers on request. This is not a benchmark,
+  a ranking or an evaluation of any organization, and the recorded machine
+  outputs are not verified as true.
+type: dataset
+version: 1.0.0-draft
+date-released: "2026-09-05"
+license: CC-BY-4.0
+languages:
+  - eng
+keywords:
+  - AI assistants
+  - generative search
+  - answer engines
+  - observational study
+  - longevity clinics
+  - preventive health
+  - AI visibility
+  - large language models
+authors:
+  - family-names: Peringeth
+    given-names: Sumesh
+    orcid: "https://orcid.org/0009-0007-7719-3751"
+    affiliation: "Sandria OÜ"
+contact:
+  - name: "Sandria OÜ"

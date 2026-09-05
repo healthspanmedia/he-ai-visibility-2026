@@ -1,0 +1,76 @@
+kind,run_id,query_id,platform,clinic_id,excerpt
+no VISIBILITY: segment and no prose score,R042,B01,Claude,"HM-015,HM-131,HM-012","*** MODEL NOTE *** B01 first run on Claude HAIKU at 12:11 PM, then re-run on Claude OPUS at 12:42 PM. The Opus version is the authoritative capture; Haiku version is preserved belo"
+no VISIBILITY: segment and no prose score,R049,B03,ChatGPT,,*** MAJOR CROSS-PLATFORM DIVERGENCE FINDING ***: ChatGPT B03 NYC surfaces ZERO of our 25 clinics. The recommended set is entirely DIFFERENT from AIO B03 (which anchored HM-001 Foun
+no VISIBILITY: segment and no prose score,R053,B04,ChatGPT,,"*** MAJOR CROSS-PLATFORM DIVERGENCE ***: ChatGPT B04 LA surfaces ZERO of our 25 clinics. Cross-platform competitive set: AIO B04 anchored [HM-022], Perplexity B04 mention"
+no VISIBILITY: segment and no prose score,R057,B05,ChatGPT,HM-133,*** MAJOR CROSS-PLATFORM FINDING — TEMPLATE SUPPRESSION REINFORCEMENT ***: ChatGPT B05 'Best longevity clinic in Singapore' ANSWERED with [HM-133] anchored at 5. Google
+"clinic named, no numeric score",R062,B06,Claude,HM-005,[HM-005] /
+no VISIBILITY: segment and no prose score,R065,B07,ChatGPT,,*** MAJOR CROSS-PLATFORM DIVERGENCE — FEMTECH/INTEGRATIVE PILLAR ***: ChatGPT B07 surfaces ZERO of our 25 clinics. [HM-067] (the canonical AIO B07 anchor) NOT mentione
+no VISIBILITY: segment and no prose score,R070,B08,Claude,"HM-002,HM-001,HM-006,HM-143","*** STRONGEST CROSS-PLATFORM CONVERGENCE IN DATASET ***: Claude B08 surfaces [HM-002] (anchored), [HM-001] (anchored), [HM-006] (anchored),"
+"clinic named, no numeric score",R090,C03,Claude,HM-006,[HM-006] (institutional cluster). FOUR of our 25 anchored — strongest
+"clinic named, no numeric score",R094,C04,Claude,HM-127,[HM-127] +
+"clinic named, no numeric score",R094,C04,Claude,HM-001,[HM-001] +
+"clinic named, no numeric score",R094,C04,Claude,HM-002,[HM-002] all surface as integrated-longevity providers. FIVE of our 25 anchored.
+"clinic named, no numeric score",R097,C05,ChatGPT,HM-038,[HM-038] (men's hormone telehealth)
+no VISIBILITY: segment and no prose score,R102,C06,Claude,HM-002,*** MAJOR FINDING - CROSS-PLATFORM BREAK ***: Claude C06 anchored [HM-002] (as 'longevity clinic integrations' for WGS). AIO C06 retest + ChatGPT C06 + Perplexit
+"clinic named, no numeric score",R105,C07,ChatGPT,HM-002,anchored).
+"clinic named, no numeric score",R106,C07,Claude,HM-015,[HM-015] referenced (regenerative within Revitalisation Premium). Stem Cell Institute Panama (NOT in 25 but cross-platform consistent — anchored on Perplexity C07 + ChatGPT C07 + Claude C07 — should PROMOT
+no VISIBILITY: segment and no prose score,R118,C10,Claude,HM-142,*** MAJOR CROSS-PLATFORM FINDING — [HM-142] ANCHORED ***: Claude C10 anchored HM-013 [HM-142] (Florida + Dubai). AIO C10 + Perplexity C10 also anchored [HM-142]. ChatGPT C10 di
+no VISIBILITY: segment and no prose score,R120,C10,Google AI Overviews,,"PENDING DATA: C10 HBOT not yet captured on Google AIO. Existing C10 data: Perplexity ([HM-142] anchored), ChatGPT (diagnostics-focused due to query reframing). Awaiting Google "
+"clinic named, no numeric score",R126,D02,Claude,HM-122,"[HM-122] (parent context via Infinite Epigenetics),"
+no VISIBILITY: segment and no prose score,R149,D08,ChatGPT,"HM-024,HM-067",*** MAJOR CROSS-PLATFORM INTEGRITY CONTRAST ***: ChatGPT D08 '[HM-024] vs [HM-067]' produced CLEAN ANSWER with HM-068 [HM-024] correctly anchored (precision medicine + 
+"clinic named, no numeric score",R161,E01,ChatGPT,HM-001,[HM-001] despite anchoring on AIO E01 (
+no VISIBILITY: segment and no prose score,R162,E01,Claude,"HM-010,HM-122,HM-067,HM-024,HM-127,HM-001,HM-002,HM-142,HM-015,HM-033","*** SIX-TIER COST FRAMEWORK — UNIQUE TO CLAUDE E01 — REPORT-READY MATERIAL ***: Tier 1 DTC ($200-1,500/yr): [HM-010] $365, [HM-122] $499, Tally, Nucleus, [HM-036]. Tier "
+"clinic named, no numeric score",R172,E03,Google AI Overviews,HM-100,+ EU low-cost competitor.
+"clinic named, no numeric score",R176,E04,Google AI Overviews,HM-005,Hyman /
+"clinic named, no numeric score",R176,E04,Google AI Overviews,HM-067,[HM-067] /
+no VISIBILITY: segment and no prose score,R189,E08,ChatGPT,,"*** MAJOR CROSS-PLATFORM DIVERGENCE ***: ChatGPT E08 'What is biological age testing' routes through ACADEMIC SOURCES (nature.com, aging.ai, nih.gov) and explicitly names Horvath, "
+no VISIBILITY: segment and no prose score,R194,E09,Claude,,"*** SIX-TIER EVIDENCE FRAMEWORK — REPORT-READY SECTION 4 + SECTION 6 MATERIAL ***: Tier 1 Strong (multiple RCTs + mortality data + clinical guidelines) — Exercise prescription, Apo"
+zero-observation run,R020,A05,Google AI Overviews,,ZERO of 25 scored subjects. AIO did not generate.
+zero-observation run,R045,B02,ChatGPT,,"NONE of our 25 scored subjects appear in the London response. Notable: [HM-018], [HM-020], [HM-004] London satellite al"
+zero-observation run,R047,B02,Perplexity,,"ZERO of our 25 surfaced. Repeating the C-category pattern of UK invisibility for our 25. Comparison ChatGPT B02 vs Perplexity B02: ChatGPT named HUM2N, The Well"
+zero-observation run,R085,C02,ChatGPT,,ZERO of our 25 anchored. [HM-022] NOT mentioned (was anchored in AIO C02 + appeared in original Apr 30 ChatGPT capture).
+zero-observation run,R087,C02,Perplexity,,ZERO of our 25 scored subjects surface. Confirms ChatGPT C02
+zero-observation run,R099,C05,Perplexity,,ZERO of our 25 scored subjects surface. CONFIRMS the C-category absence pattern across both ChatGPT and Perplexity. PATTERN 4 LOCKED across both platforms for h
+zero-observation run,R104,C06,Google AI Overviews,,ZERO of our 25 direct hits on WGS query. [HM-002] NOT mentioned (despite being the obvious answer with Craig Venter). Confirms
+zero-observation run,R107,C07,Perplexity,,ZERO of our 25 scored subjects surface. Confirms ChatGPT C07
+zero-observation run,R110,C08,Claude,,ZERO of our 25 anchored — consistent with cross-platform pattern (Perplexity C08 + AIO C08 + AIO C08 retest + ChatGPT C08 also returned zero of our 25 as primar
+zero-observation run,R111,C08,Perplexity,,ZERO of our 25 scored subjects surface. Confirms ChatGPT C08 pattern. Pattern 4 LOCKED for peptide therapy across both platforms: category owned by clinician-na
+zero-observation run,R112,C08,Google AI Overviews,,"ZERO of our 25 surface. Confirms cross-platform peptide therapy absence pattern (ChatGPT C08, Perplexity C08, Google AIO C08 all 0/25). MASSIVE DIRECTORY SURFAC"
+zero-observation run,R116,C09,Google AI Overviews,,ZERO of our 25 direct hits on VO2 max query. Confirms cross-platform Attia/[HM-024]/[HM-127] absence pattern (Perplexity C09 also showed only [HM-127]).
+zero-observation run,R119,C10,Perplexity,,"ZERO of our 25 direct hits. Extension Health (in RQ) featured strongly. [HM-142] ANCHORED as 'pioneering HBOT, FDA-cleared protocol, telomeres +20%' - domin"
+zero-observation run,R125,D02,ChatGPT,,ZERO of our 25 anchored. Tally + Elysium NOT in 25 (in Research Queue Task 33). [HM-104] NOT mentioned despite being a Tally peer surfaced on AIO D
+zero-observation run,R128,D02,Google AI Overviews,,ZERO of our 25 anchored. [HM-009] + Elysium both NOT in 25 (Research Queue).
+zero-observation run,R165,E02,ChatGPT,,ZERO of our 25 anchored. ChatGPT E02 routes value-question entirely through Reddit community discussions + generic preventive medicine framing. NO specific clin
+zero-observation run,R166,E02,Claude,,ZERO direct clinic anchors. Claude E02 provides HONEST-ASSESSMENT framework — yes/no decision criteria for clinic spending. Useful
+zero-observation run,R169,E03,ChatGPT,,"ZERO of our 25 anchored. Generic categorical answer (advanced biomarkers, body composition, cardiovascular, fitness, genetics/epigenetics, imaging, gut/specialt"
+zero-observation run,R174,E04,Claude,,ZERO direct clinic anchors. Claude E04 provides definitional clarity: 'Functional medicine asks Why am I sick? Longevity medicine asks How do I slow aging?' Six
+zero-observation run,R175,E04,Perplexity,,ZERO of our 25 surface. Pure educational/definitional query.
+zero-observation run,R177,E05,ChatGPT,,ZERO of our 25 anchored. Strong evidence-skeptical framing. ChatGPT-specific COINED PHRASES useful for
+zero-observation run,R179,E05,Perplexity,,ZERO of our 25 direct visibility. Extension Health (in RQ) referenced via Facebook video defense.
+zero-observation run,R180,E05,Google AI Overviews,,"ZERO of our 25 anchored. SKEPTICAL framing attracts mainstream press skeptics (The Atlantic 'The Longevity Scam'), Reddit community (r/longevity), Northwell Hea"
+zero-observation run,R181,E06,ChatGPT,,ZERO of our 25 anchored. Strong Reddit-quoted framing throughout: 'Finding more is not always the same as helping more' (overdiagnosis); 'a luxury wellness sale
+zero-observation run,R182,E06,Claude,,ZERO direct clinic anchors (consistent with other platforms on E06 complaints). Claude E06 provides SIX-CATEGORY COMPLAINT FRAMEWORK with frequencies: Cost/bill
+zero-observation run,R183,E06,Perplexity,,ZERO of our 25 surface. Complaint queries don't surface clinic names - they surface complaint content.
+zero-observation run,R184,E06,Google AI Overviews,,ZERO of our 25 anchored. Complaints/negative-review queries attract Yelp (2x same business listing) + reader-experience journalism (Reader's Digest 'I Went to a
+zero-observation run,R193,E09,ChatGPT,,ZERO of our 25 anchored. Strong academic
+zero-observation run,R195,E09,Perplexity,,ZERO of our 25 surface. Pure evidence-evaluation query. STRONGEST ACADEMIC
+zero-observation run,R196,E09,Google AI Overviews,,ZERO of our 25 anchored. HIGHEST academic/peer-reviewed density in our entire
+zero-observation run,R197,E10,ChatGPT,,"ZERO of our 25 anchored. ChatGPT E10 routes 'workup includes' query through generic medical framing + peer-reviewed sources (nih.gov, nature.com, sciencealert.c"
+zero-observation run,R198,E10,Claude,,ZERO direct clinic anchors (consistent with category-definition queries). Claude E10 provides SIX-PHASE WORKUP FRAMEWORK ready for Section 5 +
+clinic recorded absent,R010,A03,Claude,HM-005,Mark Hyman implicit (Function co-founder).
+clinic recorded absent,R038,A10,Claude,HM-010,[HM-010] implicit reference (Hyman co-founded; UWC explicitly NOT follow-up to Function — important disambiguation).
+clinic recorded absent,R051,B03,Perplexity,HM-125,[HM-125] (NYC-based!) ABSENT despite being a key NYC scored subject.
+clinic recorded absent,R069,B08,ChatGPT,HM-021,[HM-021] (Attia) implied via 'concierge' framing.
+clinic recorded absent,R081,C01,ChatGPT,HM-122,[HM-122] IMPLICIT (cited as '[HM-122] ecosystem' inside AIWO Health's biological-age stack). ZERO of our 25 direct hits.
+clinic recorded absent,R097,C05,ChatGPT,HM-023,[HM-023] NOT MENTIONED. [HM-023] is the legacy US hormone-optimization brand explicitly chosen for our 25 to represent 'old guard with m
+clinic recorded absent,R104,C06,Google AI Overviews,HM-002,[HM-002] — the obvious answer — NOT mentioned even with 'for longevity' anchor. [HM-013] Dubai (NOT in 25) is the anchored bran
+clinic recorded absent,R116,C09,Google AI Overviews,HM-021,[HM-021] (Attia) NOT mentioned despite Attia being the canonical 'VO2 max for longevity' evangelist.
+clinic recorded absent,R116,C09,Google AI Overviews,HM-127,[HM-127] NOT mentioned. Even [HM-001] and [HM-023] do not surface.
+clinic recorded absent,R122,D01,Claude,HM-005,Mark Hyman implicit (Function co-founder framing). FOUR-PLATFORM
+clinic recorded absent,R126,D02,Claude,HM-104,[HM-104] implicit. [HM-009] + Elysium NOT in our 25. CONFIRMED
+clinic recorded absent,R150,D08,Claude,HM-122,[HM-122] implicit via Dawson ecosystem.
+clinic recorded absent,R157,D10,ChatGPT,HM-133,[HM-133] context-mentioned but ChatGPT REFRAMED query as Hong Kong / Tokyo / Seoul — NOT Singapore. ChatGPT treats '[HM-133]-style
+clinic recorded absent,R167,E02,Perplexity,HM-003,[HM-003] mentioned but [HM-003] is now Section 6 reference (not scored).
+clinic recorded absent,R176,E04,Google AI Overviews,HM-068,"[HM-024] surface, despite query being about functional medicine - SURPRISING ABSENCE."
+clinic recorded absent,R191,E08,Perplexity,HM-104,[HM-104] cited as source (generationlab.com/blog/longevity-testing).
+clinic recorded absent,R191,E08,Perplexity,HM-001,[HM-001] cited as source ([HM-001]/blog/how-to-test-your-biological-age). Both as authority content sources rather than feature

@@ -1,0 +1,34 @@
+{
+  "title": "AI Visibility 2026: an observational record of consumer AI assistant outputs on longevity clinic queries",
+  "description": "A dated observational record of what four consumer AI assistants (ChatGPT, Claude, Perplexity and Google AI Overviews) returned on a fixed 50-query set about longevity and preventive health clinics, collected April to May 2026. 200 observations, plus a reject log of 75 excluded runs, the query set and the calibration subset. Organization identities are coded as roster identifiers; the mapping is available to researchers on request. This is not a benchmark, a ranking or an evaluation of any organization, and the recorded machine outputs are not verified as true. See LIMITATIONS.md before use.",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "version": "1.0.0-draft",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Peringeth, Sumesh",
+      "orcid": "0009-0007-7719-3751",
+      "affiliation": "Sandria OU"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Sandria OU",
+      "type": "RightsHolder"
+    }
+  ],
+  "imprint_publisher": "Sandria OU",
+  "keywords": [
+    "AI assistants",
+    "generative search",
+    "answer engines",
+    "observational study",
+    "longevity clinics",
+    "preventive health",
+    "AI visibility",
+    "large language models"
+  ],
+  "notes": "Publisher and rights holder: Sandria OU, registry code 17585074. The CC BY 4.0 grant covers the dataset structure, the coding scheme, the codebook and the annotations. Verbatim machine outputs are excluded from that grant and are recorded as third-party text quoted as evidence for research and criticism. See LICENSE.md."
+}
