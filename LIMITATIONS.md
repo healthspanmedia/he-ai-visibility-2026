@@ -1,6 +1,6 @@
 # Limitations
 
-DRAFT FOR HUMAN REVIEW. Read this before using the data.
+Read this before using the data.
 
 These are stated plainly because several of them are severe. Items 1 to 4 mean
 the conditions of collection are not fully recoverable from the record.

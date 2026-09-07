@@ -1,7 +1,5 @@
 # License
 
-DRAFT FOR HUMAN REVIEW.
-
 ## What is licensed under CC BY 4.0
 
 The following are licensed under the Creative Commons Attribution 4.0

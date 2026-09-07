@@ -1,7 +1,5 @@
 # Codebook
 
-DRAFT FOR HUMAN REVIEW.
-
 ## Roster identifier convention
 
 Every organization is written as `HM-nnn`, a stable identifier from the

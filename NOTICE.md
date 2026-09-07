@@ -1,7 +1,5 @@
 # Notice
 
-DRAFT FOR HUMAN REVIEW.
-
 ## What these files record
 
 This is an observational record of machine outputs. Every quoted passage is

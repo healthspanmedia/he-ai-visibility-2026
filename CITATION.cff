@@ -13,8 +13,8 @@ abstract: >-
   a ranking or an evaluation of any organization, and the recorded machine
   outputs are not verified as true.
 type: dataset
-version: 1.0.0-draft
-date-released: "2026-09-05"
+version: 1.0.0
+date-released: "2026-09-07"
 license: CC-BY-4.0
 languages:
   - eng

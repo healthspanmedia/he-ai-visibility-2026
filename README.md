@@ -1,7 +1,5 @@
 # AI Visibility 2026: an observational record of consumer AI assistant outputs
 
-DRAFT FOR HUMAN REVIEW. Nothing in this folder has been reviewed for release.
-
 ## What this is
 
 A dated observational record of what four consumer AI assistants returned when
@@ -74,5 +72,5 @@ CODEBOOK.md describes every column of every file.
 
 ## Status
 
-No DOI has been assigned. A DOI is created when the deposit is made. The
-version and date in CITATION.cff and .zenodo.json describe this draft.
+Version 1.0.0, released 2026-09-07. The DOI is minted by Zenodo from the
+GitHub release and is recorded here once it is issued.
