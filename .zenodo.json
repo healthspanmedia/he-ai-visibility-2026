@@ -10,16 +10,16 @@
     {
       "name": "Peringeth, Sumesh",
       "orcid": "0009-0007-7719-3751",
-      "affiliation": "Sandria OU"
+      "affiliation": "Sandria OÜ"
     }
   ],
   "contributors": [
     {
-      "name": "Sandria OU",
+      "name": "Sandria OÜ",
       "type": "RightsHolder"
     }
   ],
-  "imprint_publisher": "Sandria OU",
+  "imprint_publisher": "Sandria OÜ",
   "keywords": [
     "AI assistants",
     "generative search",
@@ -30,5 +30,5 @@
     "AI visibility",
     "large language models"
   ],
-  "notes": "Publisher and rights holder: Sandria OU, registry code 17585074. The CC BY 4.0 grant covers the dataset structure, the coding scheme, the codebook and the annotations. Verbatim machine outputs are excluded from that grant and are recorded as third-party text quoted as evidence for research and criticism. See LICENSE.md."
+  "notes": "Publisher and rights holder: Sandria OÜ, registry code 17585074. The CC BY 4.0 grant covers the dataset structure, the coding scheme, the codebook and the annotations. Verbatim machine outputs are excluded from that grant and are recorded as third-party text quoted as evidence for research and criticism. See LICENSE.md."
 }

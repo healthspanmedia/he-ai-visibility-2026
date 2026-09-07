@@ -1,5 +1,7 @@
 # AI Visibility 2026: an observational record of consumer AI assistant outputs
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22635989.svg)](https://doi.org/10.5281/zenodo.22635989)
+
 ## What this is
 
 A dated observational record of what four consumer AI assistants returned when
@@ -72,5 +74,12 @@ CODEBOOK.md describes every column of every file.
 
 ## Status
 
-Version 1.0.0, released 2026-09-07. The DOI is minted by Zenodo from the
-GitHub release and is recorded here once it is issued.
+Version 1.0.0, released 2026-09-07. Two DOIs are registered with Zenodo.
+
+| DOI | What it resolves to |
+| --- | --- |
+| [10.5281/zenodo.22635989](https://doi.org/10.5281/zenodo.22635989) | The concept DOI, covering all versions. Always resolves to the latest version. |
+| [10.5281/zenodo.22635990](https://doi.org/10.5281/zenodo.22635990) | The version DOI for v1.0.0. Always resolves to this release and no other. |
+
+Cite the concept DOI, 10.5281/zenodo.22635989, for all versions. Use the
+version DOI only when a citation has to be pinned to v1.0.0 specifically.
